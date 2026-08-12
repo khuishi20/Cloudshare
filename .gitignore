@@ -1,0 +1,12 @@
+build/
+data/
+storage/
+*.db
+*.exe
+*.dll
+*.obj
+*.pdb
+*.tlog/
+.vs/
+test.txt
+downloaded-test.txt
